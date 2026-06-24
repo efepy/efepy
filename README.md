@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Efe!
 
-<!--
-**efepy/efepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+I am a passionate **Python Developer** and **Data Analyst** focused on turning raw data into meaningful insights and building solid automated solutions. I love writing clean code, optimization, and diving deep into data management.
 
-Here are some ideas to get you started:
+- 🛠️ **What I Do:** Web Scraping, Data Cleaning, Excel Automation, and Backend Scripts.
+- 📈 **Current Focus:** Mastering Data Analytics tools (Pandas, SQL) and building automated data pipelines.
+- 🎯 **My Goal:** To deliver high-quality freelance work and build a strong career in Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python (Core, OOP)
+- **Libraries & Tools:** Pandas, Git, GitHub
+- **Operating System:** Windows
+
+---
+
+### 📬 Connect with Me
+- 📧 **Business Email:** EfeAkyildiz2026@hotmail.com
+- 💼 Available for freelance automation, web scraping, and data projects!
